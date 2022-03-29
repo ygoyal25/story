@@ -2,3 +2,4 @@ This is file 2
 
 This is a new change
 This is new change from another person
+This is comment from author
